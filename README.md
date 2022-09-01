@@ -2,7 +2,7 @@
 
 ## Необходимое ПО
 
-1.  Установить любой текстовый редактор или IDE: VS Code, WebStorm, Sublime Text и прочие;\
+1.  Установить любой текстовый редактор или IDE;\
 	1.1. Если поставили себе VS Code, нужно дополнительно поставить следующие расширения:\
 		1.1.1. [LiveServer](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 		
